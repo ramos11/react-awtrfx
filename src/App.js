@@ -5,7 +5,7 @@ import Greeting from './Greetings';
 function App(){
   return(
     <div>
-      <Greeting isLoggedIn={true}/>
+      <Greeting isLoggedIn={false}/>
     </div>
   );
 }
